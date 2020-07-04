@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PRACTICAL2</string>
+    <string name="app_name">Hello constraints</string>
     <string name="Toast">Toast</string>
     <string name="count_test">COUNT</string>
     <string name="zero">0</string>
